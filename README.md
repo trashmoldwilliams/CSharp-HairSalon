@@ -1,18 +1,32 @@
-#Hair Salon
+# Hair Salon
 
-Salon is a site that allows the user to enter a the names of stylists, and the names of the clients belonging to those clients, using a database. This was created for the C# Week 3 code review, and is primarily to implement a database into a normal app.
+#### By Will Johnson
 
-###Instructions
+## Description
 
-If you want to access the project folder, type "git clone https://github.com/trashmoldwilliams/hair-salon.git" into a terminal running Git Bash and Mono, then in the folder type "dnu restore" and "dnx kestrel" to run the site, going to the provided link for the homepage. This can only be done on a Windows machine.
+A c# test to create an application with a one to many relationship using SQL.
 
-To properly implement the database schema for this program, import the .sql files from the project folder and import them into Microsoft SQL Server Management Studio, or another database manager.
+## Setup/Installation Requirements
 
-Languages Used
-* HTML
+* Windows Machine
+* Powershell
+* Microsoft SQL Server Manager Studio
+
+* Clone Project
+* Import SQL file into MSSMS
+* Run DNU Restore
+* Run DNX Kestrel
+
+## Technologies Used
+
 * C#
-  * Nancy
-  * Razor
-* & coded in Atom, databases in SQL
+* Microsoft SQL Server Manager Studio
 
-(c) Will Johnson 2016
+## Contact
+You can contact me at trashmoldwilliams@gmail.com
+
+### License
+
+*This software is licensed under the MIT license.*
+
+Copyright (c) 2016 Will Johnson
